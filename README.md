@@ -9,13 +9,17 @@ Data Science Portfolio for Kevin Thomas. Contains personal and academic projects
     <li>Software Engineering Practices
       <ul>
         <li>Files that cover the basics of Object Oriented Programming in Python.
-        <li>A Python package `Distributions` that creates Gaussian and Binomial distributions.
       </ul>
-    <li>Population Segmentation
+      <li>Distributions Package
+        <ul>
+          <li>A Python package that creates Gaussian and Binomial distributions.
+        </ul>
+      <li>Population Segmentation
       <ul>
         <li>Jupyter Notebook, created in Amazon Sagemaker that performs PCA and K-Means clustering on US Census data.
         <li>Leveraged Amazon Sagemaker and Amazon S3 to visualize data, and train and deploy models.
       </ul>
+      <li>Credit Card Fraud Detection
   </ul>
 <li>Machine Learning A-Z (Udemy)
   <ul>
