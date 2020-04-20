@@ -1,5 +1,5 @@
 # Data-Science-Projects
-Data Science Portfolio for Kevin Thomas. Contains personal and academic projects, presented in the form of Jupyter Notebooks and python scripts.
+Data Science Portfolio for Kevin Thomas. Contains personal and academic projects, presented in the form of Jupyter Notebooks and python scripts. Also includes certificates earned for completing MOOCs.
 
 ## Contents
 ### Online Courses
