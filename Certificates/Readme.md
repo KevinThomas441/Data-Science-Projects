@@ -2,14 +2,14 @@
 
 ## Coursera
 ### [Deep Learning Specialization](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Deep%20Learning%20Specialization.pdf)
-#### [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization.pdf)
-#### [Sequence Models](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Sequence%20Models.pdf)
-#### [Structuring Machine Learning Projects](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Structuring%20Machine%20Learning%20Projects.pdf)
-#### [Neural Networks and Deep Learning](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Neural%20Networks%20and%20Deep%20Learning.pdf)
-#### [Convolutional Neural Networks](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Convolutional%20Neural%20Networks.pdf)
+- #### [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization.pdf)
+- #### [Sequence Models](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Sequence%20Models.pdf)
+- #### [Structuring Machine Learning Projects](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Structuring%20Machine%20Learning%20Projects.pdf)
+- #### [Neural Networks and Deep Learning](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Neural%20Networks%20and%20Deep%20Learning.pdf)
+- #### [Convolutional Neural Networks](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Convolutional%20Neural%20Networks.pdf)
 
 ### [Architecting with Google Compute Engine Specialization](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Architecting%20with%20Google%20Compute%20Engine.pdf)
-#### [Fundamentals Core Infrastructure](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Google%20Cloud%20Platform%20-%20Fundamentals%20Core%20Infrastructure.pdf)
+- #### [Fundamentals Core Infrastructure](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Google%20Cloud%20Platform%20-%20Fundamentals%20Core%20Infrastructure.pdf)
 - #### [Essential Google Cloud Infrastructure Foundation](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Essential%20Google%20Cloud%20Infrastructure%20Foundation.pdf)
 - #### [Essential Google Cloud Infrastructure Core Services](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Essential%20Google%20Cloud%20Infrastructure%20-%20Core%20Services.pdf)
 - #### [Elastic Google Cloud Infrastructure - Scaling and Automation](https://github.com/KevinThomas441/Data-Science-Projects/blob/master/Certificates/Coursera/Coursera%20-%20Elastic%20Google%20Cloud%20Infrastructure%20-%20Scaling%20and%20Automation.pdf)
